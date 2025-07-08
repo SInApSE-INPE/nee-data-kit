@@ -7,15 +7,13 @@ This repository provides tools to download and explore environmental datasets co
 ## 📁 Repository Structure
 
 NEE-DATA-KIT/
-├── data/ # Optional local storage (excluded from Git)
+├── data/                       # Optional local storage (excluded from Git)
 ├── notebooks/
-│ ├── download_gee_era5_modis_fluxcom.ipynb # Scripts for data download from GEE, ERA5, MODIS, FluxCom
-│ └── opening_fluxnet_lba_fluxcom_predictors_data.ipynb # Basic data loading and inspection
-├── utils/ # Optional: helper functions
+│   ├── download_gee_era5_modis_fluxcom.ipynb   # Scripts for data download from GEE, ERA5, MODIS, FluxCom
+│   └── opening_fluxnet_lba_fluxcom_predictors_data.ipynb  # Basic data loading and inspection
+├── utils/                      # Optional: helper functions
 ├── .gitignore
 └── README.md
-
-
 ---
 
 ## 📘 Notebooks
